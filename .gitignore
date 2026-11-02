@@ -1,0 +1,20 @@
+
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# Dataset
+data/
+
+# Model checkpoints
+checkpoints/
+checkpoints_upconv/
+*.pth
+*.pt
+
+# Generated training samples
+Outputs/
+
+# Temporary files
+*.log
